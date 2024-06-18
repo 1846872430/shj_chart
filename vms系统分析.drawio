@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T08:18:06.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QhlhAHkZw66Wgxzl2xjS" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T08:25:53.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4TRp8vLH2jBI9zv-VY9V" version="24.5.4" type="github">
   <diagram name="第 1 页" id="XybXWCejCHeBSwUeaRY1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="70" y="880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mNPS2zeU4l1PhfDJVPRf-16" value="判断供应商是否与租户列表存在绑定关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="910" width="240" height="30" as="geometry" />
+          <mxGeometry x="255" y="910" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mNPS2zeU4l1PhfDJVPRf-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;租户id&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="450" width="120" height="60" as="geometry" />
@@ -68,10 +68,13 @@
           <mxGeometry x="540" y="358" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mNPS2zeU4l1PhfDJVPRf-27" value="不存在则添加绑定关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1000" width="140" height="30" as="geometry" />
+          <mxGeometry x="305" y="990" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mNPS2zeU4l1PhfDJVPRf-28" value="是否需要回传租户内添加对应的供应商信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1070" width="250" height="30" as="geometry" />
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-29" value="判断供应商是否存在该租户内" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1050" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-30" value="不存在则新增供应商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1108" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
