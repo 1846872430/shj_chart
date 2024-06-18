@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T08:00:36.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TVU6_oD8pDBeVzlfD177" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T08:01:24.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="30fhRTE-qNcwxGDAtfOR" version="24.5.4" type="github">
   <diagram name="第 1 页" id="XybXWCejCHeBSwUeaRY1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="343" width="370" height="57" as="geometry" />
+        </mxCell>
         <mxCell id="mNPS2zeU4l1PhfDJVPRf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="220" width="350" height="80" as="geometry" />
         </mxCell>
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="mNPS2zeU4l1PhfDJVPRf-24" value="供应商名称和纳税人识别号永远保持一致" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-26" value="同一个供应商下子账号信息保持同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="358" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
