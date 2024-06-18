@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T12:05:21.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="TkOktSIOH5b03ncH0sBi" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T08:00:36.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TVU6_oD8pDBeVzlfD177" version="24.5.4" type="github">
   <diagram name="第 1 页" id="XybXWCejCHeBSwUeaRY1">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-1" value="生活家管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="98" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-2" value="加盟商管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="98" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-3" value="生活家租户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="178" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-4" value="加盟商租户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="178" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-5" value="生活家供应商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-6" value="加盟商供应商" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-7" value="平台供应商信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-8" value="子账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-9" value="子账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-14" value="不存在则在平台新增供应商信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="830" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-15" value="查询所有租户列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-16" value="将新增的供应商与租户列表的租户建立联系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="940" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;租户id&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;查询当前租户下的供应商列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="555" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;查询平台供应商列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-20" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;判断平台是否存在&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;（供应商编码？纳税人识别号？）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-21" value="供应商编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-22" value="纳税人识别号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNPS2zeU4l1PhfDJVPRf-24" value="供应商名称和纳税人识别号永远保持一致" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
