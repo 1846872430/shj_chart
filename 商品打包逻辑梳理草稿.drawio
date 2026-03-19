@@ -113,6 +113,12 @@
         <mxCell id="o1CCqSCF-0dBOtDtp923-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="草稿/正式" vertex="1">
           <mxGeometry height="30" width="60" x="530" y="1070" as="geometry" />
         </mxCell>
+        <mxCell id="o1CCqSCF-0dBOtDtp923-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sku标准销售价&lt;br&gt;草稿/正式" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="o1CCqSCF-0dBOtDtp923-5" edge="1" parent="1" source="7vrKXieForG3qiyMAV7l-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" target="o1CCqSCF-0dBOtDtp923-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
