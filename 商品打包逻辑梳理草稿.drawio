@@ -38,7 +38,7 @@
           <mxGeometry height="60" width="120" x="610" y="130" as="geometry" />
         </mxCell>
         <mxCell id="7vrKXieForG3qiyMAV7l-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="关联单位&lt;br&gt;草稿/正式" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="500" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="570" as="geometry" />
         </mxCell>
         <mxCell id="7vrKXieForG3qiyMAV7l-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="spu交货周期" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="290" as="geometry" />
@@ -117,10 +117,10 @@
           <mxGeometry height="30" width="60" x="240" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="OWy8N9fU160Zz1BhzmSf-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="关联单位&lt;br&gt;草稿/正式" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="1200" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="700" as="geometry" />
         </mxCell>
         <mxCell id="o1CCqSCF-0dBOtDtp923-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="促销标签&lt;br&gt;json/正式" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="930" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="990" as="geometry" />
         </mxCell>
         <mxCell id="o1CCqSCF-0dBOtDtp923-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="草稿/正式" vertex="1">
           <mxGeometry height="30" width="60" x="530" y="1070" as="geometry" />
