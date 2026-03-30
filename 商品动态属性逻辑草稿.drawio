@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="第 1 页" id="G0uh8jaYW7tSAPoFQFha">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DY0tqZphsMk7I33CjsGv-5" edge="1" parent="1" source="DY0tqZphsMk7I33CjsGv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DY0tqZphsMk7I33CjsGv-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-12" edge="1" parent="1" source="DY0tqZphsMk7I33CjsGv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DY0tqZphsMk7I33CjsGv-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="草稿spu" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-6" edge="1" parent="1" source="DY0tqZphsMk7I33CjsGv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DY0tqZphsMk7I33CjsGv-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="子项spu(商品spu)" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-7" edge="1" parent="1" source="DY0tqZphsMk7I33CjsGv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DY0tqZphsMk7I33CjsGv-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-16" edge="1" parent="1" source="DY0tqZphsMk7I33CjsGv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DY0tqZphsMk7I33CjsGv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="子项spu-&amp;gt;sku" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sku对应的所有动态属性" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="materialAttrs" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Map&amp;lt;Long, List&amp;lt;MaterialSkuAttrOptionDto&amp;gt;&amp;gt; refMaterialSkuAttrMap" vertex="1">
+          <mxGeometry height="60" width="300" x="850" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选择的动态属性" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="materialSkuList" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DY0tqZphsMk7I33CjsGv-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="已经选择的动态属性" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
