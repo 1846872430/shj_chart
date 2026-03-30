@@ -143,6 +143,9 @@
         <mxCell id="o1CCqSCF-0dBOtDtp923-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动态属性值表" vertex="1">
           <mxGeometry height="60" width="120" x="820" y="640" as="geometry" />
         </mxCell>
+        <mxCell id="gUAnaPxPfhq84ixBceXT-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sku单位：&lt;div&gt;主配件：使用主件sku上的&lt;br&gt;组合商品：spu上的&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="250" y="870" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
