@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0QzPTg5eUjlNrEx1dhQg-15" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0QzPTg5eUjlNrEx1dhQg-16" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-20" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0QzPTg5eUjlNrEx1dhQg-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -28,6 +22,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-21" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-23" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="虚拟库存&lt;br&gt;mpms_inventory" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="350" as="geometry" />
         </mxCell>
@@ -43,14 +47,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-22" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-25" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="采购价格表&lt;br&gt;mpms_purchase_price" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="350" as="geometry" />
-        </mxCell>
-        <mxCell id="0QzPTg5eUjlNrEx1dhQg-13" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0QzPTg5eUjlNrEx1dhQg-14" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SKU" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="150" as="geometry" />
