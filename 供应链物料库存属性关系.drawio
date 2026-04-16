@@ -10,6 +10,9 @@
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-16" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0QzPTg5eUjlNrEx1dhQg-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-20" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0QzPTg5eUjlNrEx1dhQg-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="库存地&lt;br&gt;mpms_store_location" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="280" as="geometry" />
         </mxCell>
@@ -21,7 +24,7 @@
             <Array as="points">
               <mxPoint x="210" y="440" />
               <mxPoint x="305" y="440" />
-              <mxPoint x="305" y="580" />
+              <mxPoint x="305" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,7 +39,7 @@
             <Array as="points">
               <mxPoint x="600" y="440" />
               <mxPoint x="500" y="440" />
-              <mxPoint x="500" y="580" />
+              <mxPoint x="500" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,13 +56,16 @@
           <mxGeometry height="60" width="120" x="340" y="150" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="供应商" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="555" as="geometry" />
+          <mxGeometry height="60" width="120" x="340" y="640" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="缺断货信息" vertex="1">
           <mxGeometry height="80" width="120" x="-120" y="340" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="采购价&lt;br&gt;市场价&lt;br&gt;运输费" vertex="1">
           <mxGeometry height="80" width="120" x="770" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="财务主体" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
