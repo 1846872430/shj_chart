@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="库存地" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="虚拟库存&lt;br&gt;mpms_inventory" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0QzPTg5eUjlNrEx1dhQg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="采购价格表&lt;br&gt;mpms_purchase_price" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
