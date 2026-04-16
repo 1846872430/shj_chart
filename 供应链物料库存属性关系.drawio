@@ -41,7 +41,7 @@
           <mxGeometry height="60" width="120" x="730" y="320" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SKU" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="100" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="供应商" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="940" as="geometry" />
