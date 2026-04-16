@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="库存地&lt;br&gt;mpms_store_location" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="320" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="320" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-10" edge="1" parent="1" source="0QzPTg5eUjlNrEx1dhQg-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0QzPTg5eUjlNrEx1dhQg-9">
           <mxGeometry relative="1" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="财务主体&lt;br&gt;mpms_company_config" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="480" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="480" as="geometry" />
         </mxCell>
         <mxCell id="0QzPTg5eUjlNrEx1dhQg-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商户&lt;br&gt;crm_merchant_info" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
