@@ -139,7 +139,7 @@
         <mxCell id="_Bje_9z_HBgtsjj9f77f-28" edge="1" parent="1" source="_Bje_9z_HBgtsjj9f77f-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKAomShpNNPLITlztvu1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Bje_9z_HBgtsjj9f77f-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="分公司配置&lt;div&gt;esign_company_config&lt;/div&gt;" vertex="1">
+        <mxCell id="_Bje_9z_HBgtsjj9f77f-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="财务主体&lt;br&gt;&lt;div&gt;esign_company_config&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="293" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="分公司&lt;div&gt;caas_company&lt;/div&gt;" vertex="1">
