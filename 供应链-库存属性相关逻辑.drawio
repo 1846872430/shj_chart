@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="渠道价（成本价）&lt;div&gt;mpms_channel_price&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="530" y="450" as="geometry" />
         </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="location_id（库存地id）" vertex="1">
           <mxGeometry height="60" width="112.5" x="701.25" y="450" as="geometry" />
