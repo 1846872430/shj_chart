@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="_-H1i7JenuiPokZSvulY">
+    <mxGraphModel dx="1006" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jKAomShpNNPLITlztvu1-15" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jKAomShpNNPLITlztvu1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="库存地mpms_store_location" vertex="1">
+          <mxGeometry height="60" width="120" x="293" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-4" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKAomShpNNPLITlztvu1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-6" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKAomShpNNPLITlztvu1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-7" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jKAomShpNNPLITlztvu1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="库存地-财务主体mpms_company_location" vertex="1">
+          <mxGeometry height="70" width="146" x="280" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="location_id（库存地id）" vertex="1">
+          <mxGeometry height="80" width="120" x="500" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="financial_org_code（财务主体编码）" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-10" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jKAomShpNNPLITlztvu1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-11" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKAomShpNNPLITlztvu1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="库存属性mpms_inventory" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="location_id（库存地id）" vertex="1">
+          <mxGeometry height="80" width="120" x="10" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="缺断货相关信息" vertex="1">
+          <mxGeometry height="80" width="120" x="10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-13" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKAomShpNNPLITlztvu1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-17" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="jKAomShpNNPLITlztvu1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-22" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jKAomShpNNPLITlztvu1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="采购价mpms_purchase_price" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="location_id（库存地id）" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="sku_id" vertex="1">
+          <mxGeometry height="50" width="90" x="710" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-19" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.042;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKAomShpNNPLITlztvu1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="供应商编码vendor_code" vertex="1">
+          <mxGeometry height="60" width="105" x="705" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="采购价&lt;br&gt;运输费&lt;br&gt;市场价" vertex="1">
+          <mxGeometry height="80" width="120" x="707" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="jKAomShpNNPLITlztvu1-25" edge="1" parent="1" source="jKAomShpNNPLITlztvu1-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" target="jKAomShpNNPLITlztvu1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
