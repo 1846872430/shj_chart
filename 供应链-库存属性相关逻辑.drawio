@@ -85,9 +85,6 @@
         <mxCell id="_Bje_9z_HBgtsjj9f77f-7" edge="1" parent="1" source="_Bje_9z_HBgtsjj9f77f-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Bje_9z_HBgtsjj9f77f-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Bje_9z_HBgtsjj9f77f-8" edge="1" parent="1" source="_Bje_9z_HBgtsjj9f77f-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Bje_9z_HBgtsjj9f77f-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-10" edge="1" parent="1" source="_Bje_9z_HBgtsjj9f77f-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_Bje_9z_HBgtsjj9f77f-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -103,14 +100,11 @@
         <mxCell id="_Bje_9z_HBgtsjj9f77f-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="sku_id" vertex="1">
           <mxGeometry height="50" width="90" x="717.5" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="_Bje_9z_HBgtsjj9f77f-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="供应商编码vendor_code" vertex="1">
-          <mxGeometry height="60" width="105" x="712.5" y="630" as="geometry" />
-        </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-6" edge="1" parent="1" source="_Bje_9z_HBgtsjj9f77f-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.078;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" target="_Bje_9z_HBgtsjj9f77f-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="渠道价（成本价）&lt;div&gt;price&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="115" x="712" y="720" as="geometry" />
+          <mxGeometry height="70" width="115" x="698.75" y="620" as="geometry" />
         </mxCell>
         <mxCell id="_Bje_9z_HBgtsjj9f77f-17" edge="1" parent="1" source="_Bje_9z_HBgtsjj9f77f-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_Bje_9z_HBgtsjj9f77f-12">
           <mxGeometry relative="1" as="geometry" />
